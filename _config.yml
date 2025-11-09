@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth now"
   employer         : "Beijing institute of technology"
-  uri              :  https://on11e.github.io
+  uri              :  #
   email            : "none@example.org" 
 
   # Academic websites
