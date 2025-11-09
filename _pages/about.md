@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Trying to be better"
+title: "Personal Blog"
 author_profile: true
 redirect_from: 
   - /about/
