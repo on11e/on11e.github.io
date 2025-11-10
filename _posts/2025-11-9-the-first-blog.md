@@ -5,5 +5,4 @@ permalink: /posts/2025/11/The-First-Blog/
 tags:
   - cool posts
 ---
-
 JUST A TEST
