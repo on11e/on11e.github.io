@@ -1,0 +1,4 @@
+baseURL = 'https://on11e.github.io/'
+languageCode = 'zh-cn'
+title = 'on11e'
+theme = 'ananke'
